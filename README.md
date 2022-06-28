@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![] (Frontend Mentor\order-summary-component-main\Screenshots\2022-06-24.png)
+![alt text] (Frontend Mentor\order-summary-component-main\Screenshots\2022-06-24.png)
 
 
 ### Links
