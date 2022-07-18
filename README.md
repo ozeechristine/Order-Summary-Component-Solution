@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/ozeechristine/Order-Summary-Component-Solution)
-- Live Site URL:https://ozeechristine.github.io/order-summary-component-main/
+- Live Site URL: (https://ozeechristine.github.io/Order-Summary-Component-Solution/)
 
 ## My process
 
